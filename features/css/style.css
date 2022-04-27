@@ -100,7 +100,7 @@ a:hover {
 /* ------------------- Introduction area ------------------- */
 .img-container {
     width: 100%;
-    background-image: url('../img-birreria/background.jpg');
+    background-image: url('/img-birreria/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
